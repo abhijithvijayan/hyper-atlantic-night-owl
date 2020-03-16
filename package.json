@@ -14,7 +14,9 @@
 	"homepage": "https://github.com/abhijithvijayan/hyper-atlantic-night-owl#readme",
 	"bin": "./index.js",
 	"files": [
-		"index.js"
+		"index.js",
+		"readme.md",
+		"demo.png"
 	],
 	"engines": {
 		"node": ">=10"
