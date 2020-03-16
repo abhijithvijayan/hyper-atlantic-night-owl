@@ -4,7 +4,7 @@
  <a href="https://www.npmjs.com/package/hyper-atlantic-night-owl">
     <img src="https://img.shields.io/npm/v/hyper-atlantic-night-owl" alt="NPM" />
   </a>
-  <a href="https://github.com/abhijithvijayan/hyper-atlantic-night-owl/blob/master/LICENSE">
+  <a href="https://github.com/abhijithvijayan/hyper-atlantic-night-owl/blob/master/license">
     <img src="https://img.shields.io/github/license/abhijithvijayan/hyper-atlantic-night-owl.svg" alt="LICENSE" />
   </a>
 </div>
