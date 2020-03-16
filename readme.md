@@ -4,8 +4,11 @@
  <a href="https://www.npmjs.com/package/hyper-atlantic-night-owl">
     <img src="https://img.shields.io/npm/v/hyper-atlantic-night-owl" alt="NPM" />
   </a>
+	<a href="https://travis-ci.org/abhijithvijayan/hyper-atlantic-night-owl">
+    <img src="https://travis-ci.org/abhijithvijayan/hyper-atlantic-night-owl?branch=master" alt="Travis Build" />
+  </a>
   <a href="https://github.com/abhijithvijayan/hyper-atlantic-night-owl/blob/master/license">
-    <img src="https://img.shields.io/github/license/abhijithvijayan/hyper-atlantic-night-owl.svg" alt="LICENSE" />
+    <img src="https://img.shields.io/github/license/abhijithvijayan/hyper-atlantic-night-owl" alt="LICENSE" />
   </a>
 </div>
 <h3 align="center">🙋‍♂️ Made by <a href="https://twitter.com/_abhijithv">@abhijithvijayan</a></h3>
