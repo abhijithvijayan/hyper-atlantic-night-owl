@@ -1,43 +1,38 @@
 {
-	"name": "starter-cli",
+	"name": "hyper-atlantic-night-owl",
 	"version": "0.0.0",
-	"description": "My awesome command-line tool",
+	"description": "Hyper Atlantic-Night-Owl Theme",
 	"license": "MIT",
-	"repository": "YOUR-GITHUB-USERNAME/starter-cli",
-	"author": {
-		"name": "abhijithvijayan",
-		"email": "34790378+abhijithvijayan@users.noreply.github.com",
-		"url": "https://abhijithvijayan.in"
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/abhijithvijayan/hyper-atlantic-night-owl.git"
 	},
-	"bin": "./app/index.js",
+	"author": "abhijithvijayan",
+	"bugs": {
+		"url": "https://github.com/abhijithvijayan/hyper-atlantic-night-owl/issues"
+	},
+	"homepage": "https://github.com/abhijithvijayan/hyper-atlantic-night-owl#readme",
+	"bin": "./index.js",
 	"files": [
-		"/app"
+		"index.js"
 	],
 	"engines": {
-		"node": ">=8"
+		"node": ">=10"
 	},
 	"scripts": {
 		"lint": "eslint .",
 		"lint:fix": "eslint . --fix"
 	},
-	"husky": {
-		"hooks": {
-			"pre-commit": "lint-staged"
-		}
-	},
-	"lint-staged": {
-		"*.js": [
-			"npm run lint:fix",
-			"git add"
-		]
-	},
 	"keywords": [
-		"cli",
-		"cli-app"
+		"hyper",
+		"hyper-theme",
+		"hyperterm",
+		"theme",
+		"ui",
+		"terminal",
+		"vibrancy",
+		"zeit"
 	],
-	"dependencies": {
-		"meow": "^5.0.0"
-	},
 	"devDependencies": {
 		"babel-eslint": "10.0.3",
 		"eslint": "^6.6.0",
@@ -50,8 +45,6 @@
 		"eslint-plugin-prettier": "^3.1.1",
 		"eslint-plugin-react": "^7.16.0",
 		"eslint-plugin-react-hooks": "^2.2.0",
-		"husky": "^3.0.9",
-		"lint-staged": "^9.4.2",
 		"prettier": "^1.19.0"
 	}
 }
